@@ -4,9 +4,9 @@ This is the calendar of the coming PyCoffees@CAB:
 ### Season 2023-2024
 | Date  | Speaker | Topic | Module |
 | ------------- | ------------- | ------------- | ------------- |
-| $\color{RoyalBlue}\rm{28-November-2023}$  | Jorge Lillo-Box  | ![Introducción a Jupyter Notebook](https://github.com/PyCoffees/notebooks/tree/main#jupyter-notebook-for-pycoffeescab) | `Jupyter` |
+| $\color{NavyBlue}\rm{28-November-2023}$  | Jorge Lillo-Box  | ![Introducción a Jupyter Notebook](https://github.com/PyCoffees/notebooks/tree/main#jupyter-notebook-for-pycoffeescab) | `Jupyter` |
 | $\color{black}\rm{13-December-2023}$  | Pedro Mas Buitrago  | Interactive plotting with Python | - | 
-| $\color{OrangeRed}\rm{27-December-2023}$ | Holidays | | |	
+| $\color{Red}\rm{27-December-2023}$ | Holidays | | |	
 | $\color{black}\rm{10-January-2024}$ | Diego Cuenda | Analysing stellar spectra | `iSpec` |
 | $\color{black}\rm{24-January-2024}$ | Jose Luis Gragera | Introduction to rebound (N-body) | `rebound` |
 | $\color{black}\rm{07-February-2024}$ | | | |	
