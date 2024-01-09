@@ -7,7 +7,7 @@ This is the calendar of the coming PyCoffees@CAB:
 | $\color{NavyBlue}\rm{28-November-2023}$  | Jorge Lillo-Box  | [Introduction to Jupyter Notebook](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2023_11_29__IntroJupyter_JorgeLilloBox.ipynb) | `Jupyter` |
 | $\color{black}\rm{13-December-2023}$  | Pedro Mas Buitrago  | [Interactive Plotting With Python](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2023_12_13_interactive_viz_PedroMas.ipynb) | `Plotly` | 
 | $\color{Red}\rm{27-December-2023}$ | Holidays | | |	
-| $\color{black}\rm{10-January-2024}$ | Diego Cuenda | Analysing stellar spectra | `iSpec` |
+| $\color{black}\rm{10-January-2024}$ | Diego Cuenda | [Analysing stellar spectra](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_01_10_intro_iSpec_DiegoCuenda.ipynb) | `iSpec` |
 | $\color{black}\rm{24-January-2024}$ | Jose Luis Gragera | Introduction to rebound (N-body) | `rebound` |
 | $\color{black}\rm{07-February-2024}$ | | | |	
 | $\color{black}\rm{21-February-2024}$ | | | |	
