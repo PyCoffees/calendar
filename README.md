@@ -8,7 +8,7 @@ This is the calendar of the coming PyCoffees@CAB:
 | $\color{NavyBlue}\rm{13-December-2023}$  | Pedro Mas Buitrago  | [Interactive Plotting With Python](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2023_12_13_interactive_viz_PedroMas.ipynb) | `Plotly` | 
 | $\color{Red}\rm{27-December-2023}$ | Holidays | | |	
 | $\color{NavyBlue}\rm{10-January-2024}$ | Diego Cuenda | [Analysing stellar spectra](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_01_10_intro_iSpec_DiegoCuenda.ipynb) | `iSpec` |
-| $\color{black}\rm{24-January-2024}$ | Jose Luis Gragera | [Introduction to rebound (N-body)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_01_24_REBOUND_JoseLuisGrageraMas.ipynb) | `rebound` |
+| $\color{NavyBlue}\rm{24-January-2024}$ | Jose Luis Gragera | [Introduction to rebound (N-body)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_01_24_REBOUND_JoseLuisGrageraMas.ipynb) | `rebound` |
 | $\color{black}\rm{07-February-2024}$ | Jorge Lillo-Box | How to elegantly arrange your plots in python | `gridspec` |	
 | $\color{black}\rm{21-February-2024}$ |Margherita Giustini | Managing tables with Astropy | `astropy.Tables` |	
 | $\color{black}\rm{06-March-2024}$ | Olga Balsalobre-Ruza | Creating modules in python | `__init__.py` |	
