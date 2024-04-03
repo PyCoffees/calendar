@@ -15,9 +15,9 @@ This is the calendar of the coming PyCoffees@CAB:
 | $\color{Red}\rm{20-March-2024}$ | Cancelled | | |	
 | $\color{black}\rm{03-April-2024}$ | Jorge Lillo-Box | How to elegantly arrange your plots in python | `gridspec` |	
 | $\color{black}\rm{17-April-2024}$ | Jorge Sanz-Forcada | How to export arrays to tables and then to latex | |	
-| $\color{black}\rm{30-April-2024}$ | Jaime Alonso | Python from the terminal | |	
+| $\color{black}\rm{30-April-2024}$ | Jaime Alonso | How to use the terminal from python | |	
 | $\color{black}\rm{14-May-2024}$ | | | |	
 | $\color{black}\rm{29-May-2024}$ | | | |	
 | $\color{black}\rm{12-June-2024}$ | | | |	
-| $\color{black}\rm{26-June-2024}$ | | | |	
+| $\color{black}\rm{26-June-2024}$ | Andrés Megías | Python library for uncertainties | `richvalues` |	
 
