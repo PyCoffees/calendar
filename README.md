@@ -13,9 +13,9 @@ This is the calendar of the coming PyCoffees@CAB:
 | $\color{NavyBlue}\rm{21-February-2024}$ |Margherita Giustini | [Managing tables with Astropy](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_02_21_astropytables_MargheritaGiustini.ipynb) | `astropy.Tables` `numpy`|	
 | $\color{NavyBlue}\rm{06-March-2024}$ | Olga Balsalobre-Ruza | Creating modules in python | `__init__.py` |	
 | $\color{Red}\rm{20-March-2024}$ | Cancelled | | |	
-| $\color{black}\rm{03-April-2024}$ | Jorge Lillo-Box | How to elegantly arrange your plots in python | `gridspec` |	
-| $\color{black}\rm{17-April-2024}$ | Jorge Sanz-Forcada | How to export arrays to tables and then to latex | |	
-| $\color{black}\rm{30-April-2024}$ | Jaime Alonso | How to use the terminal from python | |	
+| $\color{NavyBlue}\rm{03-April-2024}$ | Jorge Lillo-Box | How to elegantly arrange your plots in python | `gridspec` |	
+| $\color{NavyBlue}\rm{17-April-2024}$ | Jorge Sanz-Forcada | How to export arrays to tables and then to latex | |	
+| $\color{NavyBlue}\rm{30-April-2024}$ | Jaime Alonso | How to use the terminal from python | |	
 | $\color{black}\rm{14-May-2024}$ | | | |	
 | $\color{black}\rm{29-May-2024}$ | | | |	
 | $\color{black}\rm{12-June-2024}$ | | | |	
