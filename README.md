@@ -18,6 +18,6 @@ This is the calendar of the coming PyCoffees@CAB:
 | $\color{NavyBlue}\rm{30-April-2024}$ | Jaime Alonso | How to use the terminal from python | |	
 | $\color{red}\rm{14-May-2024}$ | Holidays | | |	
 | $\color{red}\rm{29-May-2024}$ | Cancelled | | |	
-| $\color{black}\rm{12-June-2024}$ | Pedro Mas Buitrago | Building neural networks in python | `tensorflow` |	
-| $\color{black}\rm{26-June-2024}$ | Andrés Megías | Python library for uncertainties | `richvalues` |	
+| $\rm{12-June-2024}$ | Pedro Mas Buitrago | Building neural networks in python | `tensorflow` |	
+| $\rm{26-June-2024}$ | Andrés Megías | Python library for uncertainties | `richvalues` |	
 
