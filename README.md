@@ -4,7 +4,7 @@ This is the calendar of the coming PyCoffees@CAB:
 ### Season 2024-2025
 | Date  | Speaker | Topic | Module |
 | ------------- | ------------- | ------------- | ------------- |
-| $\rm{02-Oct.-2024}$  |   | []() | `` |
+| $\rm{02-Oct.-2024}$  | David O'Ryan  | [Introduction to pandas and dataframe manipulation]() | `pandas` |
 | $\rm{16-Oct.-2024}$  | Miguel Cerviño | [Incertidumbres y coma flotante]() | `-` |
 | $\rm{30-Oct.-2024}$  | Carlos Cifuentes  | [Astroquery y sus secretos: Automatización de acceso a bases de datos]() | `astroquery` |
 | $\rm{13-Nov.-2024}$  |   | []() | `` |
