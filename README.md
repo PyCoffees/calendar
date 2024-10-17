@@ -4,8 +4,8 @@ This is the calendar of the coming PyCoffees@CAB:
 ### Season 2024-2025
 | Date  | Speaker | Topic | Module |
 | ------------- | ------------- | ------------- | ------------- |
-| $\rm{02-Oct.-2024}$  | David O'Ryan  | [Introduction to pandas and dataframe manipulation]() | `pandas` |
-| $\rm{16-Oct.-2024}$  | Miguel Cerviño | [Coma flotante]() | `-` |
+| $\rm{02-Oct.-2024}$  | David O'Ryan  | [Introduction to pandas and dataframe manipulation](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_10_02_IntroPandas_DavidORyan.ipynb) | `pandas` |
+| $\rm{16-Oct.-2024}$  | Miguel Cerviño | [Coma flotante](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_10_16_Coma_Flotante_MiguelCervi%C3%B1o.ipynb) | `-` |
 | $\rm{30-Oct.-2024}$  | Carlos Cifuentes  | [Astroquery y sus secretos: Automatización de acceso a bases de datos]() | `astroquery` |
 | $\rm{13-Nov.-2024}$  | Laura Hermoso  | [Fitting functions with Python: An introduction to lmfit]() | `lmfit` |
 | $\rm{27-Nov.-2024}$  | Miguel Cerviño | [Uncertainties: representation vs. propagation]() | `` |
@@ -24,11 +24,11 @@ This is the calendar of the coming PyCoffees@CAB:
 | $\color{NavyBlue}\rm{21-Feb.-2024}$ |Margherita Giustini | [Managing tables with Astropy](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_02_21_astropytables_MargheritaGiustini.ipynb) | `astropy.Tables` `numpy`|	
 | $\color{NavyBlue}\rm{06-Mar.-2024}$ | Olga Balsalobre-Ruza | Creating modules in python | `__init__.py` |	
 | $\color{Red}\rm{20-Mar.-2024}$ | Cancelled | | |	
-| $\color{NavyBlue}\rm{03-Apr.-2024}$ | Jorge Lillo-Box | How to elegantly arrange your plots in python | `gridspec` |	
-| $\color{NavyBlue}\rm{17-Apr.-2024}$ | Jorge Sanz-Forcada | How to export arrays to tables and then to latex | |	
-| $\color{NavyBlue}\rm{30-Apr.-2024}$ | Jaime Alonso | How to use the terminal from python | |	
+| $\color{NavyBlue}\rm{03-Apr.-2024}$ | Jorge Lillo-Box | [How to elegantly arrange your plots in python](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_04_03_Gridspec_JorgeLilloBox.ipynb) | `gridspec` |	
+| $\color{NavyBlue}\rm{17-Apr.-2024}$ | Jorge Sanz-Forcada | [How to export arrays to tables and then to latex](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_04_17_exporTeXtables_JorgeSanz.ipynb) | |	
+| $\color{NavyBlue}\rm{30-Apr.-2024}$ | Jaime Alonso | [How to use the terminal from python](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_04_30_system_JaimeALonso.ipynb) | |	
 | $\color{red}\rm{14-May-2024}$ | Holidays | | |	
 | $\color{red}\rm{29-May-2024}$ | Cancelled | | |	
-| $\rm{12-Jun.-2024}$ | Pedro Mas Buitrago | Building neural networks in python | `tensorflow` |	
-| $\rm{26-Jun.-2024}$ | Andrés Megías | Python library for uncertainties | `richvalues` |	
+| $\rm{12-Jun.-2024}$ | Pedro Mas Buitrago | [Building neural networks in python](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_06_12_neural_networks_PedroMas.ipynb) | `tensorflow` |	
+| $\rm{26-Jun.-2024}$ | Andrés Megías | [Python library for uncertainties](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_06_26_richvalues_AndresMegias.ipynb) | `richvalues` |	
 
