@@ -29,6 +29,6 @@ This is the calendar of the coming PyCoffees@CAB:
 | $\color{NavyBlue}\rm{30-Apr.-2024}$ | Jaime Alonso | [How to use the terminal from python](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_04_30_system_JaimeALonso.ipynb) | |	
 | $\color{red}\rm{14-May-2024}$ | Holidays | | |	
 | $\color{red}\rm{29-May-2024}$ | Cancelled | | |	
-| $\rm{12-Jun.-2024}$ | Pedro Mas Buitrago | [Building neural networks in python](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_06_12_neural_networks_PedroMas.ipynb) | `tensorflow` |	
-| $\rm{26-Jun.-2024}$ | Andrés Megías | [Python library for uncertainties](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_06_26_richvalues_AndresMegias.ipynb) | `richvalues` |	
+| $\color{NavyBlue}\rm{12-Jun.-2024}$ | Pedro Mas Buitrago | [Building neural networks in python](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_06_12_neural_networks_PedroMas.ipynb) | `tensorflow` |	
+| $\color{NavyBlue}\rm{26-Jun.-2024}$ | Andrés Megías | [Python library for uncertainties](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_06_26_richvalues_AndresMegias.ipynb) | `richvalues` |	
 
