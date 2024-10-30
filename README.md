@@ -6,7 +6,7 @@ This is the calendar of the coming PyCoffees@CAB:
 | ------------- | ------------- | ------------- | ------------- |
 | $\rm{02-Oct.-2024}$  | David O'Ryan  | [Introduction to pandas and dataframe manipulation](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_10_02_IntroPandas_DavidORyan.ipynb) | `pandas` |
 | $\rm{16-Oct.-2024}$  | Miguel Cerviño | [Coma flotante](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_10_16_Coma_Flotante_MiguelCervi%C3%B1o.ipynb) | `-` |
-| $\rm{30-Oct.-2024}$  | Carlos Cifuentes  | [Astroquery y sus secretos: Automatización de acceso a bases de datos]() | `astroquery` |
+| $\rm{30-Oct.-2024}$  | Carlos Cifuentes  | [Astroquery y sus secretos: Automatización de acceso a bases de datos](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_10_30_Astroquery_CarlosCifuentes.ipynb) | `astroquery` |
 | $\rm{13-Nov.-2024}$  | Laura Hermoso  | [Fitting functions with Python: An introduction to lmfit]() | `lmfit` |
 | $\rm{27-Nov.-2024}$  | Miguel Cerviño | [Uncertainties: representation vs. propagation]() | `` |
 | $\rm{11-Dec.-2024}$  |   | []() | `` |
