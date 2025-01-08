@@ -9,7 +9,19 @@ This is the calendar of the coming PyCoffees@CAB:
 | $\color{NavyBlue}\rm{30-Oct.-2024}$  | Carlos Cifuentes  | [Astroquery y sus secretos: Automatización de acceso a bases de datos](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_10_30_Astroquery_CarlosCifuentes.ipynb) | `astroquery` |
 | $\rm{13-Nov.-2024}$  | Laura Hermoso  | [Fitting functions with Python: An introduction to lmfit]() | `lmfit` |
 | $\rm{27-Nov.-2024}$  | Miguel Cerviño | [Uncertainties: representation vs. propagation]() | `` |
-| $\rm{11-Dec.-2024}$  |   | []() | `` |
+| $\color{red}\rm{11-Dec-2024}$ | Cancelled | | |	
+| $\rm{25-Jan.-2025}$  |   | []() | `` |
+| $\rm{29-Jan.-2025}$  |   | []() | `` |
+| $\rm{12-Feb.-2025}$  |   | []() | `` |
+| $\rm{26-Feb.-2025}$  |   | []() | `` |
+| $\rm{12-Mar.-2025}$  |   | []() | `` |
+| $\rm{26-Mar.-2025}$  |   | []() | `` |
+| $\rm{09-Apr.-2025}$  |   | []() | `` |
+| $\rm{23-Apr.-2025}$  |   | []() | `` |
+| $\rm{07-May-2025}$  |   | []() | `` |
+| $\rm{21-May-2025}$  |   | []() | `` |
+| $\rm{04-Jun.-2025}$  |   | []() | `` |
+| $\rm{18-Jun.-2025}$  |   | []() | `` |
 
 
 ### Season 2023-2024
