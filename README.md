@@ -10,7 +10,7 @@ This is the calendar of the coming PyCoffees@CAB:
 | $\color{NavyBlue}\rm{13-Nov.-2024}$  | Laura Hermoso  | [Fitting functions with Python: An introduction to lmfit]() | `lmfit` |
 | $\color{NavyBlue}\rm{27-Nov.-2024}$  | Miguel Cerviño | [Uncertainties: representation vs. propagation]() | `` |
 | $\color{red}\rm{11-Dec-2024}$ | Cancelled | | |	
-| $\rm{25-Jan.-2025}$  |   | []() | `` |
+| $\rm{15-Jan.-2025}$  |   | []() | `` |
 | $\rm{29-Jan.-2025}$  |   | []() | `` |
 | $\rm{12-Feb.-2025}$  |   | []() | `` |
 | $\rm{26-Feb.-2025}$  |   | []() | `` |
