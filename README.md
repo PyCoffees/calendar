@@ -12,7 +12,7 @@ This is the calendar of the coming PyCoffees@CAB:
 | $\color{red}\rm{11-Dec-2024}$ | Cancelled | | |	
 | $\color{red}\rm{15-Jan.-2025}$  | Cancelled  | | `` |
 | $\rm{29-Jan.-2025}$  | Olga Balsalobre  | Regular Expressions | `` |
-| $\rm{12-Feb.-2025}$  |   | []() | `` |
+| $\rm{12-Feb.-2025}$  | Luis González  | PyMC y Arviz | `` |
 | $\rm{26-Feb.-2025}$  |   | []() | `` |
 | $\rm{12-Mar.-2025}$  |   | []() | `` |
 | $\rm{26-Mar.-2025}$  |   | []() | `` |
