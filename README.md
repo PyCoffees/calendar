@@ -19,7 +19,7 @@ This is the calendar of the coming PyCoffees@CAB:
 | $\rm{09-Apr.-2025}$  |   | []() | `` |
 | $\rm{23-Apr.-2025}$  | Léa Zuili  | []() | `` |
 | $\rm{07-May-2025}$  |   | []() | `` |
-| $\rm{21-May-2025}$  |   | []() | `` |
+| $\rm{21-May-2025}$  | Jorge Lillo-Box  | [Creating your own color palettes](https://pypi.org/project/distinctipy/) | `distinctipy` |
 | $\rm{04-Jun.-2025}$  |   | []() | `` |
 | $\rm{18-Jun.-2025}$  |   | []() | `` |
 
