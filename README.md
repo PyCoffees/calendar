@@ -10,13 +10,13 @@ This is the calendar of the coming PyCoffees@CAB:
 | $\color{NavyBlue}\rm{13-Nov.-2024}$  | Laura Hermoso  | [Fitting functions with Python: An introduction to lmfit]() | `lmfit` |
 | $\color{NavyBlue}\rm{27-Nov.-2024}$  | Miguel Cerviño | [Uncertainties: representation vs. propagation]() | `` |
 | $\color{red}\rm{11-Dec-2024}$ | Cancelled | | |	
-| $\color{red}\rm{15-Jan.-2025}$  | Cancelled  | | `` |
+| $\color{red}\rm{15-Jan.-2025}$  | Cancelled  | |  |
 | $\rm{29-Jan.-2025}$  | Olga Balsalobre  | [Regular expressions for a more efficient work](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_01_29_regex_OlgaBalsalobre.ipynb) | `re` |
 | $\rm{12-Feb.-2025}$  | Luis González  | [Bayesian inference using PyMC and data visualization with ArViz](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_02_12_pymc_LuisGonzalez.ipynb) | `pymc` `arviz` |
 | $\rm{26-Feb.-2025}$  | Jaime Alonso | [How to write and upload documentation for GITHUB/READTHEDOCS](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_02_26_documentation_JaimeAlonso.ipynb) | `` |
 | $\rm{12-Mar.-2025}$  | Carmen Haukes | [Understanding _self_ in Python classes](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_03_12_self_CarmenHaukes.ipynb) | `` |
 | $\rm{26-Mar.-2025}$  | Adrien Masson | [Parallel computing in Python](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_03_26_parallelcomputing_AdrienMasson.ipynb) | `multiprocessing` `threading` |
-| $\rm{09-Apr.-2025}$  |   | []() | `` |
+| $\color{red}\rm{09-Apr.-2025}$  |  Cancelled |  |  |
 | $\rm{23-Apr.-2025}$  | Léa Zuili  | []() | `` |
 | $\rm{07-May-2025}$  |   | []() | `` |
 | $\rm{21-May-2025}$  | Jorge Lillo-Box  | [Creating your own color palettes](https://pypi.org/project/distinctipy/) | `distinctipy` |
