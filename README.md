@@ -17,8 +17,8 @@ This is the calendar of the coming PyCoffees@CAB:
 | $\rm{12-Mar.-2025}$  | Carmen Haukes | [Understanding _self_ in Python classes](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_03_12_self_CarmenHaukes.ipynb) | `` |
 | $\rm{26-Mar.-2025}$  | Adrien Masson | [Parallel computing in Python](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_03_26_parallelcomputing_AdrienMasson.ipynb) | `multiprocessing` `threading` |
 | $\color{red}\rm{09-Apr.-2025}$  |  Cancelled |  |  |
-| $\rm{23-Apr.-2025}$  | Léa Zuili  | []() | `` |
-| $\rm{07-May-2025}$  |   | []() | `` |
+| $\rm{23-Apr.-2025}$  | Pedro Mas | []() | `` |
+| $\rm{07-May-2025}$  | Léa Zuili | []() | `` |
 | $\rm{21-May-2025}$  | Jorge Lillo-Box  | [Creating your own color palettes](https://pypi.org/project/distinctipy/) | `distinctipy` |
 | $\rm{04-Jun.-2025}$  |   | []() | `` |
 | $\rm{18-Jun.-2025}$  |   | []() | `` |
