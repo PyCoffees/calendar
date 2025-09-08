@@ -1,6 +1,17 @@
 # PyCoffees Calendar
 This is the calendar of the coming PyCoffees@CAB:
 
+### Season 2025-2026
+| Date  | Speaker | Topic | Module |
+| ------------- | ------------- | ------------- | ------------- |
+| 17-Sept.-2025  | -  |  |  |
+| 01-Oct.-2025  | -  |  |  |
+| 15-Oct.-2025  | -  |  |  |
+| 29-Oct.-2025  | -  |  |  |
+| 12-Nov.-2025  | -  |  |  |
+| 26-Nov.-2025  | -  |  |  |
+| 10-Dec.-2025  | -  |  |  |
+
 ### Season 2024-2025
 | Date  | Speaker | Topic | Module |
 | ------------- | ------------- | ------------- | ------------- |
