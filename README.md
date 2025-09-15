@@ -4,7 +4,7 @@ This is the calendar of the coming PyCoffees@CAB:
 ### Season 2025-2026
 | Date  | Speaker | Topic | Module |
 | ------------- | ------------- | ------------- | ------------- |
-| $\color{NavyBlue}\rm{17-Sept.-2025}$  | Sergio Turrado  | [CCF with iSpec - Easily estimation of RVs, BV correction and identify binarity]() | `iSpec` |
+| $\color{NavyBlue}\rm{17-Sept.-2025}$  | Sergio Turrado  | [CCF with iSpec - Easily estimation of RVs, BV correction and identify binarity](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_09_17_CCF_iSpec_SergioTurradoPrieto) | `iSpec` |
 | $\color{NavyBlue}\rm{01-Oct.-2025}$  | -  |  |  |
 | $\color{NavyBlue}\rm{15-Oct.-2025}$  | -  |  |  |
 | $\color{NavyBlue}\rm{29-Oct.-2025}$  | -  |  |  |
