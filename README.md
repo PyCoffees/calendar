@@ -8,7 +8,7 @@ This is the calendar of the coming PyCoffees@CAB:
 | $\color{NavyBlue}\rm{01-Oct.-2025}$  | Carmen Haukes  | [Basic installations for Python beginners]()  | `python` |
 | $\color{NavyBlue}\rm{15-Oct.-2025}$  | -  |  |  |
 | $\color{NavyBlue}\rm{29-Oct.-2025}$  | -  |  |  |
-| $\color{NavyBlue}\rm{12-Nov.-2025}$  | -  |  |  |
+| $\color{NavyBlue}\rm{12-Nov.-2025}$  | Jorge Lillo-Box  | [Modelando tus datos con inferencia Bayesiana y métodos Monte Carlo]() | `emcee` |
 | $\color{NavyBlue}\rm{26-Nov.-2025}$  | -  |  |  |
 | $\color{NavyBlue}\rm{10-Dec.-2025}$  | -  |  |  |
 
