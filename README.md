@@ -1,5 +1,5 @@
 # PyCoffees Calendar
-This is the calendar of the coming PyCoffees@CAB:
+This is the calendar of the coming PyCoffees@CAB (see also the [Spreadsheet](https://docs.google.com/spreadsheets/d/12PrVnxT36zbW8VTNJEYYq-OKSt1382RwDC8eH0FX7fI/edit?usp=sharing)):
 
 ### Season 2025-2026
 | Date  | Speaker | Topic | Module |
