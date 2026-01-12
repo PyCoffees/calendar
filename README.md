@@ -13,10 +13,10 @@ This is the calendar of the coming PyCoffees@CAB:
 | $\color{NavyBlue}\rm{10-Dec.-2025}$  | Adrien Masson  | [Web browsing from python]() | `Selenium` |
 | $\color{NavyBlue}\rm{14-ene/2026}$  | TBD | []() | `` |
 | $\color{NavyBlue}\rm{28-ene/2026}$  | TBD | []() | `` |
-| $\color{NavyBlue}\rm{11-feb/2026}$  | Jorge Lillo-Box  | [Modelando tus datos con inferencia Bayesiana y métodos Monte Carlo]() | `emcee` |
+| $\color{NavyBlue}\rm{11-feb/2026}$  | Carlos Cifuentes | [Life is too short for manual literature searches.]() | `ads` |
 | $\color{NavyBlue}\rm{25-feb/2026}$  | TBD | []() | `` |
 | $\color{NavyBlue}\rm{11-mar/2026}$  | TBD | []() | `` |
-| $\color{NavyBlue}\rm{25-mar/2026}$  | TBD | []() | `` |
+| $\color{NavyBlue}\rm{25-mar/2026}$  | Jorge Lillo-Box  | [Modelando tus datos con inferencia Bayesiana y métodos Monte Carlo]() | `emcee` |
 | $\color{NavyBlue}\rm{8/-apr/2026}$  | TBD | []() | `` |
 | $\color{NavyBlue}\rm{22-apr/2026}$  | TBD | []() | `` |
 | $\color{NavyBlue}\rm{6/-may/2026}$  | TBD | []() | `` |
