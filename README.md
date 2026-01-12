@@ -8,12 +8,12 @@ This is the calendar of the coming PyCoffees@CAB:
 | $\color{NavyBlue}\rm{01-Oct.-2025}$  | Carmen Haukes  | [Basic installations for Python beginners]()  | `python` |
 | $\color{red}\rm{15-Oct.-2025}$  | Cancelled  |  |  |
 | $\color{red}\rm{29-Oct.-2025}$  | Cancelled  |  |  |
-| $\color{NavyBlue}\rm{12-Nov.-2025}$  | Jorge Lillo-Box  | [Modelando tus datos con inferencia Bayesiana y métodos Monte Carlo]() | `emcee` |
+| $\color{NavyBlue}\rm{12-Nov.-2025}$  | Jorge Lillo-Box  | [Playing around with Kepler and TESS photometric light curves]() | `lightkurve` |
 | $\color{red}\rm{26-Nov.-2025}$  | Cancelled  |  |  |
 | $\color{NavyBlue}\rm{10-Dec.-2025}$  | Adrien Masson  | [Web browsing from python]() | `Selenium` |
 | $\color{NavyBlue}\rm{14-ene/2026}$  | TBD | []() | `` |
 | $\color{NavyBlue}\rm{28-ene/2026}$  | TBD | []() | `` |
-| $\color{NavyBlue}\rm{11-feb/2026}$  | TBD | []() | `` |
+| $\color{NavyBlue}\rm{11-feb/2026}$  | Jorge Lillo-Box  | [Modelando tus datos con inferencia Bayesiana y métodos Monte Carlo]() | `emcee` |
 | $\color{NavyBlue}\rm{25-feb/2026}$  | TBD | []() | `` |
 | $\color{NavyBlue}\rm{11-mar/2026}$  | TBD | []() | `` |
 | $\color{NavyBlue}\rm{25-mar/2026}$  | TBD | []() | `` |
