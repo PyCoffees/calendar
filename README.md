@@ -11,37 +11,37 @@ This is the calendar of the coming PyCoffees@CAB (see also the [Spreadsheet](htt
 | $\color{NavyBlue}\rm{12-Nov.-2025}$  | Jorge Lillo-Box  | [Playing around with Kepler and TESS photometric light curves](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_11_12_GettingLightkurves_JorgeLillo.ipynb) | `lightkurve` |
 | $\color{red}\rm{26-Nov.-2025}$  | Cancelled  |  |  |
 | $\color{red}\rm{10-Dec.-2025}$  | Cancelled  |  |  |
-| $\color{red}\rm{14-Jan.-2026}$  | Cancelled | []() | `` |
+| $\color{red}\rm{14-Jan.-2026}$  | Cancelled | []() |  |
 | $\color{NavyBlue}\rm{4-Feb.-2026}$  | Adrien Masson  | [Web browsing from python]() | `Selenium` |
 | $\color{NavyBlue}\rm{11-Feb.-2026}$  | Carlos Cifuentes | [Life is too short for manual literature searches.]() | `ads` |
 | $\color{NavyBlue}\rm{25-Feb.-2026}$  | Belén Yu | [Get started with machine learning for astronomy]() | `ultralytics` |
-| $\color{NavyBlue}\rm{11-Mar.-2026}$  | Jorge Sanz-Forcada | []() | `` |
+| $\color{NavyBlue}\rm{11-Mar.-2026}$  | Jorge Sanz-Forcada | []() |  |
 | $\color{NavyBlue}\rm{25-Mar.-2026}$  | Jorge Lillo-Box  | [Modelando tus datos con inferencia Bayesiana y métodos Monte Carlo]() | `emcee` |
-| $\color{NavyBlue}\rm{8-Apr.-2026}$  | TBD | []() | `` |
-| $\color{NavyBlue}\rm{22-Apr.-2026}$  | TBD | []() | `` |
-| $\color{NavyBlue}\rm{6-May.-2026}$  | TBD | []() | `` |
-| $\color{NavyBlue}\rm{20-May.-2026}$  | TBD | []() | `` |
-| $\color{NavyBlue}\rm{3-Jun.-2026}$  | TBD | []() | `` |
-| $\color{NavyBlue}\rm{17-Jun.-2026}$  | TBD | []() | `` |
+| $\color{NavyBlue}\rm{8-Apr.-2026}$  | TBD | []() |  |
+| $\color{NavyBlue}\rm{22-Apr.-2026}$  | TBD | []() |  |
+| $\color{NavyBlue}\rm{6-May.-2026}$  | TBD | []() |  |
+| $\color{NavyBlue}\rm{20-May.-2026}$  | TBD | []() |  |
+| $\color{NavyBlue}\rm{3-Jun.-2026}$  | TBD | []() |  |
+| $\color{NavyBlue}\rm{17-Jun.-2026}$  | TBD | []() |  |
 
 ### Season 2024-2025
 | Date  | Speaker | Topic | Module |
 | ------------- | ------------- | ------------- | ------------- |
 | $\color{NavyBlue}\rm{02-Oct.-2024}$  | David O'Ryan  | [Introduction to pandas and dataframe manipulation](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_10_02_IntroPandas_DavidORyan.ipynb) | `pandas` |
-| $\color{NavyBlue}\rm{16-Oct.-2024}$  | Miguel Cerviño | [Coma flotante](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_10_16_Coma_Flotante_MiguelCervi%C3%B1o.ipynb) | `-` |
+| $\color{NavyBlue}\rm{16-Oct.-2024}$  | Miguel Cerviño | [Coma flotante](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_10_16_Coma_Flotante_MiguelCervi%C3%B1o.ipynb) |  |
 | $\color{NavyBlue}\rm{30-Oct.-2024}$  | Carlos Cifuentes  | [Astroquery y sus secretos: Automatización de acceso a bases de datos](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_10_30_Astroquery_CarlosCifuentes.ipynb) | `astroquery` |
 | $\color{NavyBlue}\rm{13-Nov.-2024}$  | Laura Hermoso  | [Fitting functions with Python: An introduction to lmfit]() | `lmfit` |
-| $\color{NavyBlue}\rm{27-Nov.-2024}$  | Miguel Cerviño | [Uncertainties: representation vs. propagation]() | `` |
+| $\color{NavyBlue}\rm{27-Nov.-2024}$  | Miguel Cerviño | [Uncertainties: representation vs. propagation]() |  |
 | $\color{red}\rm{11-Dec-2024}$ | Cancelled | | |	
 | $\color{red}\rm{15-Jan.-2025}$  | Cancelled  | |  |
 | $\color{NavyBlue}\rm{29-Jan.-2025}$  | Olga Balsalobre  | [Regular expressions for a more efficient work](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_01_29_regex_OlgaBalsalobre.ipynb) | `re` |
 | $\color{NavyBlue}\rm{12-Feb.-2025}$  | Luis González  | [Bayesian inference using PyMC and data visualization with ArViz](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_02_12_pymc_LuisGonzalez.ipynb) | `pymc` `arviz` |
-| $\color{NavyBlue}\rm{26-Feb.-2025}$  | Jaime Alonso | [How to write and upload documentation for GITHUB/READTHEDOCS](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_02_26_documentation_JaimeAlonso.ipynb) | `` |
-| $\color{NavyBlue}\rm{12-Mar.-2025}$  | Carmen Haukes | [Understanding _self_ in Python classes](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_03_12_self_CarmenHaukes.ipynb) | `` |
+| $\color{NavyBlue}\rm{26-Feb.-2025}$  | Jaime Alonso | [How to write and upload documentation for GITHUB/READTHEDOCS](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_02_26_documentation_JaimeAlonso.ipynb) |  |
+| $\color{NavyBlue}\rm{12-Mar.-2025}$  | Carmen Haukes | [Understanding _self_ in Python classes](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_03_12_self_CarmenHaukes.ipynb) |  |
 | $\color{NavyBlue}\rm{26-Mar.-2025}$  | Adrien Masson | [Parallel computing in Python](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_03_26_parallelcomputing_AdrienMasson.ipynb) | `multiprocessing` `threading` |
 | $\color{red}\rm{09-Apr.-2025}$  |  Cancelled |  |  |
-| $\color{NavyBlue}\rm{23-Apr.-2025}$  | Pedro Mas | [ESA Datalabs](https://datalabs.esa.int/) | `` |
-| $\color{NavyBlue}\rm{07-May-2025}$  | Gonzalo José Carracedo | [Calculating Moving Averages](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_05_07_MovingAverages_GonzaloCarracedo.ipynb) | `` |
+| $\color{NavyBlue}\rm{23-Apr.-2025}$  | Pedro Mas | [ESA Datalabs](https://datalabs.esa.int/) |  |
+| $\color{NavyBlue}\rm{07-May-2025}$  | Gonzalo José Carracedo | [Calculating Moving Averages](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_05_07_MovingAverages_GonzaloCarracedo.ipynb) |  |
 | $\color{NavyBlue}\rm{21-May-2025}$  | Jorge Lillo-Box  | [Creating your own color palettes](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_05_21_ColourPalettes_JorgeLilloBox.ipynb) | `distinctipy` |
 | $\color{NavyBlue}\rm{11-June-2025}$  | Raúl Gutiérrez  | [Using GitHub Copilot as an Assistant for Time Series Analysis](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_06_11_Copilot_RaulGutierrez.ipynb) | `Copilot` |
 
