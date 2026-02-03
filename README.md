@@ -12,7 +12,7 @@ This is the calendar of the coming PyCoffees@CAB (see also the [Spreadsheet](htt
 | $\color{red}\rm{26-Nov.-2025}$  | Cancelled  |  |  |
 | $\color{red}\rm{10-Dec.-2025}$  | Cancelled  |  |  |
 | $\color{NavyBlue}\rm{14-ene/2026}$  | TBD | []() | `` |
-| $\color{NavyBlue}\rm{28-ene/2026}$  | Adrien Masson  | [Web browsing from python]() | `Selenium` |
+| $\color{NavyBlue}\rm{4-feb/2026}$  | Adrien Masson  | [Web browsing from python]() | `Selenium` |
 | $\color{NavyBlue}\rm{11-feb/2026}$  | Carlos Cifuentes | [Life is too short for manual literature searches.]() | `ads` |
 | $\color{NavyBlue}\rm{25-feb/2026}$  | Belén Yu | [Get started with machine learning for astronomy]() | `ultralytics` |
 | $\color{NavyBlue}\rm{11-mar/2026}$  | Jorge Sanz-Forcada | []() | `` |
