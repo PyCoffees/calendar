@@ -11,18 +11,18 @@ This is the calendar of the coming PyCoffees@CAB (see also the [Spreadsheet](htt
 | $\color{NavyBlue}\rm{12-Nov.-2025}$  | Jorge Lillo-Box  | [Playing around with Kepler and TESS photometric light curves]() | `lightkurve` |
 | $\color{red}\rm{26-Nov.-2025}$  | Cancelled  |  |  |
 | $\color{red}\rm{10-Dec.-2025}$  | Cancelled  |  |  |
-| $\color{red}\rm{14-ene/2026}$  | Cancelled | []() | `` |
-| $\color{NavyBlue}\rm{4-feb/2026}$  | Adrien Masson  | [Web browsing from python]() | `Selenium` |
-| $\color{NavyBlue}\rm{11-feb/2026}$  | Carlos Cifuentes | [Life is too short for manual literature searches.]() | `ads` |
-| $\color{NavyBlue}\rm{25-feb/2026}$  | Belén Yu | [Get started with machine learning for astronomy]() | `ultralytics` |
-| $\color{NavyBlue}\rm{11-mar/2026}$  | Jorge Sanz-Forcada | []() | `` |
-| $\color{NavyBlue}\rm{25-mar/2026}$  | Jorge Lillo-Box  | [Modelando tus datos con inferencia Bayesiana y métodos Monte Carlo]() | `emcee` |
-| $\color{NavyBlue}\rm{8/-apr/2026}$  | TBD | []() | `` |
-| $\color{NavyBlue}\rm{22-apr/2026}$  | TBD | []() | `` |
-| $\color{NavyBlue}\rm{6/-may/2026}$  | TBD | []() | `` |
-| $\color{NavyBlue}\rm{20-may/2026}$  | TBD | []() | `` |
-| $\color{NavyBlue}\rm{3/-jun/2026}$  | TBD | []() | `` |
-| $\color{NavyBlue}\rm{17-jun/2026}$  | TBD | []() | `` |
+| $\color{red}\rm{14-Jan.-2026}$  | Cancelled | []() | `` |
+| $\color{NavyBlue}\rm{4-Feb.-2026}$  | Adrien Masson  | [Web browsing from python]() | `Selenium` |
+| $\color{NavyBlue}\rm{11-Feb.-2026}$  | Carlos Cifuentes | [Life is too short for manual literature searches.]() | `ads` |
+| $\color{NavyBlue}\rm{25-Feb.-2026}$  | Belén Yu | [Get started with machine learning for astronomy]() | `ultralytics` |
+| $\color{NavyBlue}\rm{11-Mar.-2026}$  | Jorge Sanz-Forcada | []() | `` |
+| $\color{NavyBlue}\rm{25-Mar.-2026}$  | Jorge Lillo-Box  | [Modelando tus datos con inferencia Bayesiana y métodos Monte Carlo]() | `emcee` |
+| $\color{NavyBlue}\rm{8-Apr.-2026}$  | TBD | []() | `` |
+| $\color{NavyBlue}\rm{22-Apr.-2026}$  | TBD | []() | `` |
+| $\color{NavyBlue}\rm{6-May.-2026}$  | TBD | []() | `` |
+| $\color{NavyBlue}\rm{20-May.-2026}$  | TBD | []() | `` |
+| $\color{NavyBlue}\rm{3-Jun.-2026}$  | TBD | []() | `` |
+| $\color{NavyBlue}\rm{17-Jun.-2026}$  | TBD | []() | `` |
 
 ### Season 2024-2025
 | Date  | Speaker | Topic | Module |
