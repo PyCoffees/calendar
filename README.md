@@ -5,10 +5,10 @@ This is the calendar of the coming PyCoffees@CAB (see also the [Spreadsheet](htt
 | Date  | Speaker | Topic | Module |
 | ------------- | ------------- | ------------- | ------------- |
 | $\color{NavyBlue}\rm{17-Sept.-2025}$  | Sergio Turrado  | [CCF with iSpec - Easily estimation of RVs, BV correction and identify binarity](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_09_17_CCF_iSpec_SergioTurradoPrieto.ipynb) | `iSpec` |
-| $\color{NavyBlue}\rm{01-Oct.-2025}$  | Carmen Haukes  | [Basic installations for Python beginners]()  | `python` |
+| $\color{NavyBlue}\rm{01-Oct.-2025}$  | Carmen Haukes  | [Basic installations for Python beginners](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_10_01_Installation_CarmenHaukes.ipynb)  | `python` |
 | $\color{red}\rm{15-Oct.-2025}$  | Cancelled  |  |  |
 | $\color{red}\rm{29-Oct.-2025}$  | Cancelled  |  |  |
-| $\color{NavyBlue}\rm{12-Nov.-2025}$  | Jorge Lillo-Box  | [Playing around with Kepler and TESS photometric light curves]() | `lightkurve` |
+| $\color{NavyBlue}\rm{12-Nov.-2025}$  | Jorge Lillo-Box  | [Playing around with Kepler and TESS photometric light curves](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_11_12_GettingLightkurves_JorgeLillo.ipynb) | `lightkurve` |
 | $\color{red}\rm{26-Nov.-2025}$  | Cancelled  |  |  |
 | $\color{red}\rm{10-Dec.-2025}$  | Cancelled  |  |  |
 | $\color{red}\rm{14-Jan.-2026}$  | Cancelled | []() | `` |
