@@ -53,10 +53,10 @@ This is the calendar of the coming PyCoffees@CAB (see also the [Spreadsheet](htt
 | $\color{NavyBlue}\rm{13-Dec.-2023}$  | Pedro Mas Buitrago  | [Interactive Plotting With Python](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2023_12_13_interactive_viz_PedroMas.ipynb) | `Plotly` `matplotlib` | 
 | $\color{Red}\rm{27-Dec.-2023}$ | Holidays | | |	
 | $\color{NavyBlue}\rm{10-Jan.-2024}$ | Diego Cuenda | [Analysing stellar spectra](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_01_10_intro_iSpec_DiegoCuenda.ipynb) | `iSpec` |
-| $\color{NavyBlue}\rm{24-Jan.-2024}$ | Jose Luis Gragera | [Introduction to rebound (N-body)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_01_24_REBOUND_JoseLuisGrageraMas.ipynb) | `rebound` |
+| $\color{NavyBlue}\rm{24-Jan.-2024}$ | Jose Luis Gragera | [Introduction to rebound (N-body), Part I](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_01_24_REBOUND_JoseLuisGrageraMas.ipynb) | `rebound` |
 | $\color{NavyBlue}\rm{07-Feb.-2024}$ | Jose Luis Gragera | [Introduction to rebound (N-body), Part II](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_01_24_REBOUND_JoseLuisGrageraMas.ipynb) | `rebound` |
 | $\color{NavyBlue}\rm{21-Feb.-2024}$ |Margherita Giustini | [Managing tables with Astropy](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_02_21_astropytables_MargheritaGiustini.ipynb) | `astropy.Tables` `numpy`|	
-| $\color{NavyBlue}\rm{06-Mar.-2024}$ | Olga Balsalobre-Ruza | Creating modules in python | `__init__.py` |	
+| $\color{NavyBlue}\rm{06-Mar.-2024}$ | Olga Balsalobre-Ruza | [Creating modules in python](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_03_06_creating_modules_OlgaBalsalobre.ipynb) | `__init__.py` |	
 | $\color{Red}\rm{20-Mar.-2024}$ | Cancelled | | |	
 | $\color{NavyBlue}\rm{03-Apr.-2024}$ | Jorge Lillo-Box | [How to elegantly arrange your plots in python](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_04_03_Gridspec_JorgeLilloBox.ipynb) | `gridspec` |	
 | $\color{NavyBlue}\rm{17-Apr.-2024}$ | Jorge Sanz-Forcada | [How to export arrays to tables and then to latex](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_04_17_exporTeXtables_JorgeSanz.ipynb) | |	
