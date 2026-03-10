@@ -15,7 +15,7 @@ This is the calendar of the coming PyCoffees@CAB (see also the [Spreadsheet](htt
 | $\color{NavyBlue}\rm{4-Feb.-2026}$  | Adrien Masson  | [Web browsing from python](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2026_02_04_web_browsing_AdrienMasson.ipynb) | `Selenium` |
 | $\color{NavyBlue}\rm{11-Feb.-2026}$  | Carlos Cifuentes | [Life is too short for manual literature searches.](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2026_02_11_ads_CarlosCifuentes.ipynb) | `ads` |
 | $\color{NavyBlue}\rm{25-Feb.-2026}$  | Belén Yu | [Get started with machine learning for astronomy](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2026_02_25_mlastronomy_BelenYuIrureta.ipynb) | `ultralytics` |
-| $\color{NavyBlue}\rm{11-Mar.-2026}$  | Luis González | [Neural Networks from Scratch Part I]() | - |
+| $\color{NavyBlue}\rm{11-Mar.-2026}$  | Luis González | [Neural Networks from Scratch Part I](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2026_03_11_NN_from_scratch_LuisGonzalezRamirez.html) | - |
 | $\color{NavyBlue}\rm{25-Mar.-2026}$  | Jorge Lillo-Box  | [Modelando tus datos con inferencia Bayesiana y métodos Monte Carlo]() | `emcee` |
 | $\color{NavyBlue}\rm{8-Apr.-2026}$  | TBD | []() |  |
 | $\color{NavyBlue}\rm{22-Apr.-2026}$  | Jorge Sanz | []() |  |
