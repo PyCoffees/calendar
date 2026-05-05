@@ -18,7 +18,7 @@ This is the calendar of the coming PyCoffees@CAB (see also the [Spreadsheet](htt
 | $\color{NavyBlue}\rm{11-Mar.-2026}$  | Luis González | [Neural Networks from Scratch. Part I](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2026_03_11_NN_from_scratch_LuisGonzalezRamirez.html) | - |
 | $\color{NavyBlue}\rm{25-Mar.-2026}$  |  Luis González | [Neural Networks from Scratch. Part II](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2026_03_11_NN_from_scratch_LuisGonzalezRamirez.html) | - |
 | $\color{red}\rm{8-Apr.-2026}$  | Cancelled  |  |  |
-| $\color{NavyBlue}\rm{22-Apr.-2026}$  | Jorge Sanz | []() |  |
+| $\color{NavyBlue}\rm{22-Apr.-2026}$  | Jorge Sanz | [Double axes in Python]() | -|
 | $\color{NavyBlue}\rm{6-May.-2026}$  | Jorge Lillo-Box | [Bayesian inference with MCMC sampling. Part I]() | `emcee` |
 | $\color{NavyBlue}\rm{20-May.-2026}$  | Jorge Lillo-Box | [Bayesian inference with MCMC sampling. Part II]() | `emcee` |
 | $\color{NavyBlue}\rm{3-Jun.-2026}$  | TBD | []() |  |
