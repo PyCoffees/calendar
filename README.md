@@ -20,7 +20,7 @@ This is the calendar of the coming PyCoffees@CAB (see also the [Spreadsheet](htt
 | $\color{red}\rm{8-Apr.-2026}$  | Cancelled  |  |  |
 | $\color{NavyBlue}\rm{22-Apr.-2026}$  | Jorge Sanz | []() |  |
 | $\color{NavyBlue}\rm{6-May.-2026}$  | Jorge Lillo-Box | [Bayesian inference with MCMC sampling. Part I]() | `emcee` |
-| $\color{NavyBlue}\rm{20-May.-2026}$  | TBD | []() | [Bayesian inference with MCMC sampling. Part II]() | `emcee` |
+| $\color{NavyBlue}\rm{20-May.-2026}$  | TBD | [Bayesian inference with MCMC sampling. Part II]() | `emcee` |
 | $\color{NavyBlue}\rm{3-Jun.-2026}$  | TBD | []() |  |
 | $\color{NavyBlue}\rm{17-Jun.-2026}$  | TBD | []() |  |
 
