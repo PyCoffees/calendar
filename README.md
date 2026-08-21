@@ -1,6 +1,32 @@
 # PyCoffees Calendar
 This is the calendar of the coming PyCoffees@CAB (see also the [Spreadsheet](https://docs.google.com/spreadsheets/d/12PrVnxT36zbW8VTNJEYYq-OKSt1382RwDC8eH0FX7fI/edit?usp=sharing)):
 
+### Season 2026-2027
+
+| Date                                  | Speaker | Topic | Module |
+| ------------------------------------- | ------- | ----- | ------ |
+| $\color{NavyBlue}\rm{23-Sept.-2026}$ |         |       |        |
+| $\color{NavyBlue}\rm{07-Oct.-2026}$  |         |       |        |
+| $\color{NavyBlue}\rm{21-Oct.-2026}$  |         |       |        |
+| $\color{NavyBlue}\rm{04-Nov.-2026}$  |         |       |        |
+| $\color{NavyBlue}\rm{18-Nov.-2026}$  |         |       |        |
+| $\color{NavyBlue}\rm{02-Dec.-2026}$  |         |       |        |
+| $\color{NavyBlue}\rm{16-Dec.-2026}$  |         |       |        |
+| $\color{red}\rm{30-Dec.-2026}$       | New Year break       |       |        |
+| $\color{NavyBlue}\rm{13-Jan.-2027}$  |         |       |        |
+| $\color{NavyBlue}\rm{27-Jan.-2027}$  |         |       |        |
+| $\color{NavyBlue}\rm{10-Feb.-2027}$  |         |       |        |
+| $\color{NavyBlue}\rm{24-Feb.-2027}$  |         |       |        |
+| $\color{NavyBlue}\rm{10-Mar.-2027}$  |         |       |        |
+| $\color{NavyBlue}\rm{24-Mar.-2027}$  | Eastern break        |       |        |
+| $\color{NavyBlue}\rm{07-Apr.-2027}$  |         |       |        |
+| $\color{NavyBlue}\rm{21-Apr.-2027}$  |         |       |        |
+| $\color{NavyBlue}\rm{05-May.-2027}$  |         |       |        |
+| $\color{NavyBlue}\rm{19-May.-2027}$  |         |       |        |
+| $\color{NavyBlue}\rm{02-Jun.-2027}$  |         |       |        |
+| $\color{NavyBlue}\rm{16-Jun.-2027}$  |         |       |        |
+| $\color{NavyBlue}\rm{30-Jun.-2027}$  |         |       |        |
+
 ### Season 2025-2026
 | Date  | Speaker | Topic | Module |
 | ------------- | ------------- | ------------- | ------------- |
@@ -21,8 +47,8 @@ This is the calendar of the coming PyCoffees@CAB (see also the [Spreadsheet](htt
 | $\color{NavyBlue}\rm{22-Apr.-2026}$  | Jorge Sanz | [Double axes in Python](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2026_04_22_doubleaxes_JorgeSanz.ipynb) | -|
 | $\color{NavyBlue}\rm{6-May.-2026}$  | Jorge Lillo-Box | [Bayesian inference with MCMC sampling. Part I](https://github.com/PyCoffees/notebooks/blob/main/notebooks/files/2026_05_20_modeling_with_emcee_JorgeLillo/2026_05_20_modeling_with_emcee_JorgeLillo.ipynb) | `emcee` |
 | $\color{NavyBlue}\rm{20-May.-2026}$  | Jorge Lillo-Box | [Bayesian inference with MCMC sampling. Part II](https://github.com/PyCoffees/notebooks/blob/main/notebooks/files/2026_05_20_modeling_with_emcee_JorgeLillo/2026_05_20_modeling_with_emcee_JorgeLillo.ipynb) | `emcee` |
-| $\color{NavyBlue}\rm{3-Jun.-2026}$  | TBD | []() |  |
-| $\color{NavyBlue}\rm{17-Jun.-2026}$  | TBD | []() |  |
+| $\color{red}\rm{3-Jun.-2026}$  | Cancelled | []() |  |
+| $\color{red}\rm{17-Jun.-2026}$  | Cancelled | []() |  |
 
 ### Season 2024-2025
 | Date  | Speaker | Topic | Module |
