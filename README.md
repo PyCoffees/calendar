@@ -5,11 +5,11 @@ This is the calendar of the coming PyCoffees@CAB (see also the [Spreadsheet](htt
 
 | Date                                  | Speaker | Topic | Module |
 | ------------------------------------- | ------- | ----- | ------ |
-| $\color{NavyBlue}\rm{23-Sept.-2026}$ |         |       |        |
-| $\color{NavyBlue}\rm{07-Oct.-2026}$  |         |       |        |
+| $\color{NavyBlue}\rm{23-Sept.-2026}$ |     Luis González Ramírez    |   Git + Python for Reproducible Science    |   git     |
+| $\color{NavyBlue}\rm{07-Oct.-2026}$  |     Pablo Jiménez Sánchez    |   TBD    |        |
 | $\color{NavyBlue}\rm{21-Oct.-2026}$  |         |       |        |
 | $\color{NavyBlue}\rm{04-Nov.-2026}$  |         |       |        |
-| $\color{NavyBlue}\rm{18-Nov.-2026}$  |         |       |        |
+| $\color{NavyBlue}\rm{18-Nov.-2026}$  |    Ángel Encinas Moreno     |   TBD    |        |
 | $\color{NavyBlue}\rm{02-Dec.-2026}$  |         |       |        |
 | $\color{NavyBlue}\rm{16-Dec.-2026}$  |         |       |        |
 | $\color{red}\rm{30-Dec.-2026}$       | New Year break       |       |        |
