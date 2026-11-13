@@ -5,13 +5,13 @@ This is the calendar of the coming PyCoffees@CAB (see also the [Spreadsheet](htt
 
 | Date                                  | Speaker | Topic | Module |
 | ------------------------------------- | ------- | ----- | ------ |
-| $\color{NavyBlue}\rm{23-Sept.-2026}$ |     Luis González Ramírez    |   Git + Python for Reproducible Science    |   git     |
+| $\color{NavyBlue}\rm{23-Sept.-2026}$ |     Luis González Ramírez    |   Git + Python for Reproducible Science    |   `git`     |
 | $\color{NavyBlue}\rm{07-Oct.-2026}$  |     Pablo Jiménez Sánchez    |   Surviving survival analysis: upper limits in python    |        |
 | $\color{NavyBlue}\rm{21-Oct.-2026}$  |          |       |        |
 | $\color{NavyBlue}\rm{04-Nov.-2026}$  |    Sabela Reyero Serantes |  VSC + LaTeX: no more licences     |        |
-| $\color{NavyBlue}\rm{18-Nov.-2026}$  |    Ángel Encinas Moreno     |   TBD    |        |
-| $\color{NavyBlue}\rm{02-Dec.-2026}$  |         |       |        |
-| $\color{NavyBlue}\rm{16-Dec.-2026}$  |         |       |        |
+| $\color{NavyBlue}\rm{18-Nov.-2026}$  |          |       |        |
+| $\color{NavyBlue}\rm{02-Dec.-2026}$  |    Pedro Mas Buitrago     |   A faster way to build and share data apps   |     `streamlit`   |   
+| $\color{NavyBlue}\rm{16-Dec.-2026}$  |    Ángel Encinas Moreno     |   TBD    |        |
 | $\color{red}\rm{30-Dec.-2026}$       | New Year break       |       |        |
 | $\color{NavyBlue}\rm{13-Jan.-2027}$  |         |       |        |
 | $\color{NavyBlue}\rm{27-Jan.-2027}$  |         |       |        |
@@ -66,7 +66,7 @@ This is the calendar of the coming PyCoffees@CAB (see also the [Spreadsheet](htt
 | $\color{NavyBlue}\rm{12-Mar.-2025}$  | Carmen Haukes | [Understanding _self_ in Python classes](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_03_12_self_CarmenHaukes.ipynb) |  |
 | $\color{NavyBlue}\rm{26-Mar.-2025}$  | Adrien Masson | [Parallel computing in Python](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_03_26_parallelcomputing_AdrienMasson.ipynb) | `multiprocessing` `threading` |
 | $\color{red}\rm{09-Apr.-2025}$  |  Cancelled |  |  |
-| $\color{NavyBlue}\rm{23-Apr.-2025}$  | Pedro Mas | [ESA Datalabs](https://datalabs.esa.int/) |  |
+| $\color{NavyBlue}\rm{23-Apr.-2025}$  |Pedro Mas Buitrago | [ESA Datalabs](https://datalabs.esa.int/) |  |
 | $\color{NavyBlue}\rm{07-May-2025}$  | Gonzalo José Carracedo | [Calculating Moving Averages](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_05_07_MovingAverages_GonzaloCarracedo.ipynb) |  |
 | $\color{NavyBlue}\rm{21-May-2025}$  | Jorge Lillo-Box  | [Creating your own color palettes](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_05_21_ColourPalettes_JorgeLilloBox.ipynb) | `distinctipy` |
 | $\color{NavyBlue}\rm{11-June-2025}$  | Raúl Gutiérrez  | [Using GitHub Copilot as an Assistant for Time Series Analysis](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_06_11_Copilot_RaulGutierrez.ipynb) | `Copilot` |
