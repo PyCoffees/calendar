@@ -9,11 +9,11 @@ This is the calendar of the coming PyCoffees@CAB (see also the [Spreadsheet](htt
 | $\color{NavyBlue}\rm{07-Oct.-2026}$  |     Pablo Jiménez Sánchez    |   Surviving survival analysis: upper limits in python    |        |
 | $\color{NavyBlue}\rm{21-Oct.-2026}$  |          |       |        |
 | $\color{NavyBlue}\rm{04-Nov.-2026}$  |    Sabela Reyero Serantes |  VSC + LaTeX: no more licences     |        |
-| $\color{NavyBlue}\rm{18-Nov.-2026}$  |          |       |        |
+| $\color{NavyBlue}\rm{18-Nov.-2026}$  |    Jose Luis Gragera      |   TBD    |        |
 | $\color{NavyBlue}\rm{02-Dec.-2026}$  |    Pedro Mas Buitrago     |   A faster way to build and share data apps   |     `streamlit`   |   
-| $\color{NavyBlue}\rm{16-Dec.-2026}$  |    Ángel Encinas Moreno     |   TBD    |        |
+| $\color{NavyBlue}\rm{16-Dec.-2026}$  |    Juan A. Molina-Calzada     |   TBD    |        |
 | $\color{red}\rm{30-Dec.-2026}$       | New Year break       |       |        |
-| $\color{NavyBlue}\rm{13-Jan.-2027}$  |         |       |        |
+| $\color{NavyBlue}\rm{13-Jan.-2027}$  |    Ángel Encinas Moreno     |   TBD    |        |
 | $\color{NavyBlue}\rm{27-Jan.-2027}$  |         |       |        |
 | $\color{NavyBlue}\rm{10-Feb.-2027}$  |         |       |        |
 | $\color{NavyBlue}\rm{24-Feb.-2027}$  |         |       |        |
